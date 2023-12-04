@@ -4,6 +4,7 @@ By default, csminer will mine with a single thread, and only when your screen is
 
 Project uses CGO and relies on https://github.com/cryptonote-social/RandomX.
 
+
 ## Install
 https://cryptonote.social/tools/csminer
 
